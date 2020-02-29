@@ -1,6 +1,6 @@
 {
-  'scores':[{name:'ali',score:30,dateCreated:'yesterday'},
-  {name:'ali2',score:33,dateCreated:'yesterday'},
-  {name:'ali3',score:32,dateCreated:'yesterday'},
-  {name:'ali4',score:34,dateCreated:'yesterday'}]
+  "scores":[{"name":'ali',"score":30,"dateCreated":"yesterday"},
+  {"name":'ali2',"score":33,"dateCreated":'yesterday'},
+  {"name":'ali3',"score":32,"dateCreated":'yesterday'},
+  {"name":'ali4',"score":34,"dateCreated":'yesterday'}]
 }
